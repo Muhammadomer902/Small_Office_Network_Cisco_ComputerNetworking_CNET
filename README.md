@@ -30,11 +30,11 @@ This project focuses on designing and implementing a **Small Office Network** th
 
 **3.** **DHCP** – Dynamic Host Configuration Protocol for IP allocation.
 
-Subnetting – Efficient IP address allocation.
+**4.** **Subnetting** – Efficient IP address allocation.
 
-Command-Line Interface (CLI) – Configuring routers and switches.
+**5.** **Command-Line Interface (CLI)** – Configuring routers and switches.
 
-ACL (Access Control Lists) – Network access restrictions.
+**6.** **ACL (Access Control Lists)** – Network access restrictions.
 
 Network Design & Implementation
 
