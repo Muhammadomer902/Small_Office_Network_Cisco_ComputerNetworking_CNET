@@ -36,7 +36,7 @@ This project focuses on designing and implementing a **Small Office Network** th
 
 **6.** **ACL (Access Control Lists)** – Network access restrictions.
 
-Network Design & Implementation
+**Network Design & Implementation**
 
 The office is divided into three departments:
 
