@@ -54,7 +54,7 @@ DHCP ensures automatic IP assignment for ease of network expansion.
 
 ACLs are used to restrict access to servers based on department permissions.
 
-Testing & Results
+**Testing & Results**
 
 Ping & Traceroute were used to verify connectivity.
 
@@ -62,7 +62,7 @@ Department-specific routing was tested to ensure internal communication.
 
 Access restrictions were validated through ACL configurations.
 
-Challenges & Learnings
+**Challenges & Learnings**
 
 Routing Protocol Compatibility – Initially, connecting different routing protocols was challenging, but route redistribution resolved the issue.
 
@@ -70,7 +70,7 @@ RIP Limitations – RIPv2 was used to support subnetting.
 
 Subnetting Complexity – Careful planning was required to allocate IPs efficiently.
 
-Conclusion & Future Enhancements
+**Conclusion & Future Enhancements**
 
 The project successfully demonstrated multi-protocol routing and dynamic IP management in a small office network. Future improvements could include:
 
@@ -80,11 +80,11 @@ Exploring QoS (Quality of Service) to optimize traffic flow.
 
 Enhancing network security measures with firewall rules.
 
-Author
+**Author**
 
-Muhammad Omer
+**Muhammad Omer**
 
-Roll Number: 22I-0921
+**Roll Number: 22I-0921**
 
 This project was developed as part of NUCES-FAST coursework in Cisco Networking.
 
