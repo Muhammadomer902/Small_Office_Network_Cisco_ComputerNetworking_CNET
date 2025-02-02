@@ -2,9 +2,9 @@
 
 **Project Overview**
 
-This project focuses on designing and implementing a Small Office Network that dynamically assigns IP addresses using DHCP and ensures efficient routing between different network segments. The network is built using multiple routing protocols: EIGRP, OSPF, Static routing, and RIP.
+This project focuses on designing and implementing a Small Office Network that dynamically assigns IP addresses using DHCP and ensures efficient routing between different network segments. The network is built using multiple routing protocols: **EIGRP, OSPF, Static routing, and RIP**.
 
-Objectives
+**Objectives**
 
 Implement a dynamic IP allocation system using DHCP.
 
@@ -14,7 +14,7 @@ Ensure seamless connectivity and efficient resource management.
 
 Demonstrate network scalability with proper subnetting and routing.
 
-Technologies Used
+**Technologies Used**
 
 Cisco Packet Tracer – Network simulation and configuration.
 
