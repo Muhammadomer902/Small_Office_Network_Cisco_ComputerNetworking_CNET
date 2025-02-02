@@ -1,6 +1,6 @@
 # Small Office Network with DHCP and Routing
 
-# Project Overview
+**Project Overview**
 
 This project focuses on designing and implementing a Small Office Network that dynamically assigns IP addresses using DHCP and ensures efficient routing between different network segments. The network is built using multiple routing protocols: EIGRP, OSPF, Static routing, and RIP.
 
