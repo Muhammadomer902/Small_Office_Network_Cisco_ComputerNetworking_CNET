@@ -2,33 +2,33 @@
 
 **Project Overview**
 
-This project focuses on designing and implementing a Small Office Network that dynamically assigns IP addresses using DHCP and ensures efficient routing between different network segments. The network is built using multiple routing protocols: **EIGRP, OSPF, Static routing, and RIP**.
+This project focuses on designing and implementing a **Small Office Network** that dynamically assigns **IP addresses using DHCP** and ensures efficient routing between different network segments. The network is built using multiple routing protocols: **EIGRP, OSPF, Static routing, and RIP**.
 
 **Objectives**
 
-Implement a dynamic IP allocation system using DHCP.
+  **1.**  Implement a **dynamic IP** allocation system using **DHCP**.
 
-Configure multi-protocol routing (EIGRP, OSPF, RIP, and Static Routing).
+  **2.** Configure **multi-protocol routing** (EIGRP, OSPF, RIP, and Static Routing).
 
-Ensure seamless connectivity and efficient resource management.
+  **3.** Ensure **seamless connectivity** and **efficient resource management**.
 
-Demonstrate network scalability with proper subnetting and routing.
+  **4.** Demonstrate **network scalability** with proper subnetting and routing.
 
 **Technologies Used**
 
-Cisco Packet Tracer – Network simulation and configuration.
+ **1.** **Cisco Packet Tracer** – Network simulation and configuration.
 
-Routing Protocols:
+ **2.** **Routing Protocols:**
 
-EIGRP – Internal dynamic routing.
+   **i.** **EIGRP** – Internal dynamic routing.
 
-OSPF – Fast convergence and scalability.
+   **ii.** **OSPF** – Fast convergence and scalability.
 
-RIP (v2) – Distance-vector routing with subnetting.
+   **iii.** **RIP (v2)** – Distance-vector routing with subnetting.
 
-Static Routing – Manually configured routes.
+   **iv.** **Static Routing** – Manually configured routes.
 
-DHCP – Dynamic Host Configuration Protocol for IP allocation.
+**3.** **DHCP** – Dynamic Host Configuration Protocol for IP allocation.
 
 Subnetting – Efficient IP address allocation.
 
